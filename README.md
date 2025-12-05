@@ -9,10 +9,10 @@ It documents the problem space, patterns, and integration ideas for using restro
 
 ## 🌏 Live Projects
 
-- **Global homepage (Australia focus):**  
+- **Global homepage**  
   https://dunnydash.com
 
-- **United States map (beta):**  
+- **United States An Australia maps (beta):**  
   https://dunnydash.com/usa
   https://dunnydash.com/au
 
